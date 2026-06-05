@@ -1,1 +1,1 @@
-{"accounts": []}
+{"accounts": [{"id": "1", "label": "test", "strategy": "top10", "enabled": true}]}
