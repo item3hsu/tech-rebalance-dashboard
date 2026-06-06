@@ -1,1 +1,18 @@
-{"accounts": [{"id": "1", "label": "test", "strategy": "top10", "enabled": true}]}
+{
+  "accounts": [
+    {
+      "id": "1",
+      "label": "test",
+      "strategy": "top10",
+      "broker": "alpaca",
+      "environment": "paper",
+      "enabled": true,
+      "secret_prefix": "ACC1",
+      "data_dir": "data/1",
+      "use_new_runner": true,
+      "email_recipients": [
+        "item3hsu@gmail.com"
+      ]
+    }
+  ]
+}
