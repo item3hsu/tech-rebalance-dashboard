@@ -4,8 +4,8 @@
     "strategy": "top10",
     "account_id": "1",
     "account_label": "test",
-    "generated_at": "2026-11-05T01:27:19Z",
-    "trading_date": "2026-11-05",
+    "generated_at": "2026-11-06T01:31:32Z",
+    "trading_date": "2026-11-06",
     "dry_run": false,
     "strategy_status": "active",
     "strategy_start_date": "2026-06-06",
@@ -19,22 +19,22 @@
     ]
   },
   "summary": {
-    "nav": 104652.64,
+    "nav": 99614.08,
     "cash": 1118.64,
     "initial_nav": 100145.9,
     "inception_date": "2026-06-06",
-    "today_change": 2270.48,
-    "today_change_pct": 2.2177,
-    "total_return": 4506.74,
-    "total_return_pct": 4.5002,
-    "total_return_pct_twr": 4.5002,
+    "today_change": -5038.56,
+    "today_change_pct": -4.8146,
+    "total_return": -531.82,
+    "total_return_pct": -0.531,
+    "total_return_pct_twr": -0.531,
     "net_contribution": 0.0,
     "total_deposited": 0.0,
     "total_withdrawn": 0.0,
-    "investment_gain": 4506.74,
+    "investment_gain": -531.82,
     "ytd_return_pct": null,
-    "monthly_return_pct": 0.6597,
-    "max_drawdown_pct": -10.8186,
+    "monthly_return_pct": -4.1866,
+    "max_drawdown_pct": -12.9639,
     "sharpe_ratio": null,
     "total_paused_days": 0,
     "is_paused": false,
@@ -76,113 +76,113 @@
   },
   "positions": [
     {
-      "symbol": "V",
-      "qty": 28.0,
-      "avg_entry_price": 362.65,
-      "current_price": 440.59,
-      "market_value": 12336.52,
-      "unrealized_pl": 2182.32,
-      "unrealized_plpc": 21.492,
-      "weight": 11.7881,
-      "in_portfolio": true
-    },
-    {
       "symbol": "AAPL",
       "qty": 35.0,
       "avg_entry_price": 290.690571,
-      "current_price": 349.86,
-      "market_value": 12245.1,
-      "unrealized_pl": 2070.93,
-      "unrealized_plpc": 20.355,
-      "weight": 11.7007,
+      "current_price": 343.0,
+      "market_value": 12005.0,
+      "unrealized_pl": 1830.83,
+      "unrealized_plpc": 17.995,
+      "weight": 12.0515,
+      "in_portfolio": true
+    },
+    {
+      "symbol": "V",
+      "qty": 28.0,
+      "avg_entry_price": 362.65,
+      "current_price": 422.8851,
+      "market_value": 11840.78,
+      "unrealized_pl": 1686.58,
+      "unrealized_plpc": 16.61,
+      "weight": 11.8867,
       "in_portfolio": true
     },
     {
       "symbol": "MSFT",
       "qty": 22.0,
       "avg_entry_price": 378.10963,
-      "current_price": 552.0,
-      "market_value": 12144.0,
-      "unrealized_pl": 3825.59,
-      "unrealized_plpc": 45.989,
-      "weight": 11.6041,
+      "current_price": 531.36,
+      "market_value": 11689.92,
+      "unrealized_pl": 3371.51,
+      "unrealized_plpc": 40.531,
+      "weight": 11.7352,
       "in_portfolio": true
     },
     {
       "symbol": "META",
       "qty": 18.0,
       "avg_entry_price": 603.39,
-      "current_price": 624.27,
-      "market_value": 11236.86,
-      "unrealized_pl": 375.84,
-      "unrealized_plpc": 3.46,
-      "weight": 10.7373,
+      "current_price": 603.97,
+      "market_value": 10871.46,
+      "unrealized_pl": 10.44,
+      "unrealized_plpc": 0.096,
+      "weight": 10.9136,
       "in_portfolio": true
     },
     {
       "symbol": "AMZN",
       "qty": 42.0,
       "avg_entry_price": 239.002857,
-      "current_price": 263.51,
-      "market_value": 11067.42,
-      "unrealized_pl": 1029.3,
-      "unrealized_plpc": 10.254,
-      "weight": 10.5754,
-      "in_portfolio": true
-    },
-    {
-      "symbol": "AMD",
-      "qty": 21.0,
-      "avg_entry_price": 549.127143,
-      "current_price": 478.0,
-      "market_value": 10038.0,
-      "unrealized_pl": -1493.67,
-      "unrealized_plpc": -12.953,
-      "weight": 9.5917,
+      "current_price": 257.72,
+      "market_value": 10824.24,
+      "unrealized_pl": 786.12,
+      "unrealized_plpc": 7.831,
+      "weight": 10.8662,
       "in_portfolio": true
     },
     {
       "symbol": "NVDA",
       "qty": 50.0,
       "avg_entry_price": 194.71,
-      "current_price": 197.8,
-      "market_value": 9890.0,
-      "unrealized_pl": 154.5,
-      "unrealized_plpc": 1.587,
-      "weight": 9.4503,
+      "current_price": 184.61,
+      "market_value": 9230.5,
+      "unrealized_pl": -505.0,
+      "unrealized_plpc": -5.187,
+      "weight": 9.2663,
       "in_portfolio": true
     },
     {
-      "symbol": "AVGO",
-      "qty": 26.0,
-      "avg_entry_price": 372.395385,
-      "current_price": 320.0,
-      "market_value": 8320.0,
-      "unrealized_pl": -1362.28,
-      "unrealized_plpc": -14.07,
-      "weight": 7.9501,
-      "in_portfolio": true
-    },
-    {
-      "symbol": "TSM",
+      "symbol": "AMD",
       "qty": 21.0,
-      "avg_entry_price": 465.860476,
-      "current_price": 391.5,
-      "market_value": 8221.5,
-      "unrealized_pl": -1561.57,
-      "unrealized_plpc": -15.962,
-      "weight": 7.856,
+      "avg_entry_price": 549.127143,
+      "current_price": 420.0,
+      "market_value": 8820.0,
+      "unrealized_pl": -2711.67,
+      "unrealized_plpc": -23.515,
+      "weight": 8.8542,
       "in_portfolio": true
     },
     {
       "symbol": "GOOGL",
       "qty": 28.0,
       "avg_entry_price": 358.376429,
-      "current_price": 286.95,
-      "market_value": 8034.6,
-      "unrealized_pl": -1999.94,
-      "unrealized_plpc": -19.931,
-      "weight": 7.6774,
+      "current_price": 281.91,
+      "market_value": 7893.48,
+      "unrealized_pl": -2141.06,
+      "unrealized_plpc": -21.337,
+      "weight": 7.9241,
+      "in_portfolio": true
+    },
+    {
+      "symbol": "AVGO",
+      "qty": 26.0,
+      "avg_entry_price": 372.395385,
+      "current_price": 298.69,
+      "market_value": 7765.94,
+      "unrealized_pl": -1916.34,
+      "unrealized_plpc": -19.792,
+      "weight": 7.796,
+      "in_portfolio": true
+    },
+    {
+      "symbol": "TSM",
+      "qty": 21.0,
+      "avg_entry_price": 465.860476,
+      "current_price": 359.72,
+      "market_value": 7554.12,
+      "unrealized_pl": -2228.95,
+      "unrealized_plpc": -22.784,
+      "weight": 7.5834,
       "in_portfolio": true
     }
   ],
@@ -550,6 +550,10 @@
     {
       "date": "2026-11-05",
       "nav": 104652.64
+    },
+    {
+      "date": "2026-11-06",
+      "nav": 99614.08
     }
   ],
   "drawdown": {
@@ -644,7 +648,8 @@
       "2026-10-30",
       "2026-11-03",
       "2026-11-04",
-      "2026-11-05"
+      "2026-11-05",
+      "2026-11-06"
     ],
     "portfolio": [
       0.0,
@@ -737,9 +742,11 @@
       -9.1609,
       -10.8186,
       -10.5454,
-      -8.5616
+      -8.5616,
+      -12.9639
     ],
     "nasdaq": [
+      null,
       null,
       null,
       null,
@@ -923,10 +930,29 @@
       null,
       null,
       null,
+      null,
       null
     ]
   },
   "trade_log": [
+    {
+      "date": "2026-11-06",
+      "nav": 99614.08,
+      "trades_count": 0,
+      "portfolio": [
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "TSM",
+        "GOOGL",
+        "META",
+        "AVGO",
+        "AMD",
+        "V"
+      ],
+      "orders": []
+    },
     {
       "date": "2026-11-05",
       "nav": 104652.64,
@@ -2683,8 +2709,8 @@
   },
   "events": [],
   "email": {
-    "subject": "[TOP10 #1] 2026-11-05 NAV $104,653 (+2.22%)",
-    "preheader": "帳戶 #1 · 2026-11-05 · NAV $104,653",
+    "subject": "[TOP10 #1] 2026-11-06 NAV $99,614 (-4.81%)",
+    "preheader": "帳戶 #1 · 2026-11-06 · NAV $99,614",
     "dashboard_url": "https://itemhsu.github.io/tech-rebalance-dashboard/mvp_dashboard.html?a=1",
     "sections_rendered": [
       "header",
@@ -2791,7 +2817,8 @@
       102503.46,
       102352.68,
       103971.36,
-      103971.36
+      99442.72,
+      99442.72
     ],
     "nasdaq": [
       99295.32,
@@ -2883,8 +2910,9 @@
       101131.0,
       98243.14,
       97992.13,
-      99399.93,
-      99399.93
+      99399.91,
+      93909.73,
+      93909.73
     ]
   }
 }
