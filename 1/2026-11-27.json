@@ -4,7 +4,7 @@
     "strategy": "top10",
     "account_id": "1",
     "account_label": "test",
-    "generated_at": "2026-11-27T03:37:57Z",
+    "generated_at": "2026-11-28T03:18:17Z",
     "trading_date": "2026-11-27",
     "dry_run": false,
     "strategy_status": "active",
@@ -3115,7 +3115,7 @@
       93447.54,
       97378.6,
       97131.0,
-      97131.0
+      98682.2
     ],
     "nasdaq": [
       99295.32,
@@ -3220,7 +3220,7 @@
       87354.52,
       91664.01,
       91093.41,
-      91093.41
+      93193.3
     ]
   }
 }
